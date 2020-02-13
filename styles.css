@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+}
+
+
+h1 {
+    background-color:#fc8e86;
+    color:white;
+}
+h2 {
+    background-color:#facc14;
+    color:white;
+  
+}
+p {
+    color:white;
+    font-size:20px;
+}
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA0JRFAbUQnbmslE0_tco6-HMZLUn6yJk7XUh4latT251CHMkj");
+}
